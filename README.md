@@ -1,0 +1,1 @@
+# Weight-Reduction-by-Static-Structural-Analysis-of-Automotive-Lower-Control-Arm
