@@ -24,7 +24,7 @@ in all stages of a project from conceptual design, through commissioning and ope
 The most effective was to improve product quality and reliability is to integrate them in 
 the design and manufacturing process. 
 
-Significance of Project 
+## Significance of Project 
 
 The suspension system caries the vehicle body and transmit all forces between the body 
 and the road without transmitting to the driver and passengers. The suspension system of a 
@@ -37,7 +37,7 @@ provide support in all stages of a project from conceptual design, through commi
 and operation. The most effective way to improve product quality and reliability is to 
 integrate them in the design and manufacturing process. 
 
-Objectives
+## Objectives
 
 1. To prepare CAD design using CATIA V5. 
 2. Static structural Analysis of Automotive A type control arm 
@@ -52,17 +52,16 @@ control arm by keeping factor of safety for optimized design within permissible
 limits. 
 8. To perform experimentation on physical model of Lower Control Arm.
 
-Softwares Used:
-
+## Softwares Used: 
 Catia, SolidWorks, Ansys
 
-Results obtained from the project
+## Results obtained from the project
 
-Elements Details of Ansys -  
+### Elements Details of Ansys -  
 - Nodes – 28547 for Existing component and 27382 for Optimized component. 
 - Elements - 14197 for Existing component and 13451 for Optimized component. 
 
-Universal Testing Machine Results -  
+### Universal Testing Machine Results -  
 - The Deformation Maximum is 2.593mm for Existing component and 2.869 mm 
 for Optimized component. 
 - The Deformation Minimum is 0mm for Existing component and 0mm for 
