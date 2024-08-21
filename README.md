@@ -1,3 +1,5 @@
+# Weight-Reduction-by-Static-Structural-Analysis-of-Automotive-Lower-Control-Arm
+
 The control arm is a unique type of independent suspension used in automobile vehicles. 
 During the actual working condition, the maximum load is transferred from upper arm to 
 the A arm which creates possibility of failure in the arm. Hence it is essential to focus on 
