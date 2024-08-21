@@ -37,7 +37,7 @@ provide support in all stages of a project from conceptual design, through commi
 and operation. The most effective way to improve product quality and reliability is to 
 integrate them in the design and manufacturing process. 
 
- Objectives
+Objectives
 
 1. To prepare CAD design using CATIA V5. 
 2. Static structural Analysis of Automotive A type control arm 
@@ -54,9 +54,7 @@ limits.
 
 Softwares Used:
 
-Catia
-SolidWorks
-Ansys
+Catia, SolidWorks, Ansys
 
 Results obtained from the project
 
